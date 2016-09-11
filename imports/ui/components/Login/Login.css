@@ -1,0 +1,11 @@
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.bordered{
+    border-left: 6px solid #9B7ADE;
+    background-color: lightgrey;
+    padding: 20px;
+}

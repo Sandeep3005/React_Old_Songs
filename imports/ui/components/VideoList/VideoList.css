@@ -1,0 +1,15 @@
+.videoName {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    line-height: 35px;
+
+    -moz-border-radius: 30px; /* or 50% */
+    border-radius: 30px; /* or 50% */
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 2px;
+}
